@@ -22,19 +22,19 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/yjose",
+    href: "https://github.com/MouhtaramSoufiane",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/youssouf-elazizi/",
+    href: "https://www.linkedin.com/in/soufiane-mouhtaram-27143720b/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/ElaziziYoussouf/",
+    href: "https://twitter.com/soufianeMouh_t",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },

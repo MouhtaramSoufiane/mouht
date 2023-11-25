@@ -2,8 +2,6 @@
 import { LOGO_IMAGE, SITE } from "@config";
 import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
-
-
 ---
 
 <header transition:persist>
@@ -11,7 +9,7 @@ import LinkButton from "./LinkButton.astro";
   <div class="nav-container">
     <div class="top-nav-wrap">
       <a href="/" class="logo">
-            <>Youssouf </>
+        <>Soufiane</>
       </a>
       <nav id="nav-menu">
         <button
@@ -41,16 +39,13 @@ import LinkButton from "./LinkButton.astro";
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
-            <a href="/posts"> Posts</a>
-          </li>
-          <li>
             <a href="/tags"> Tags</a>
           </li>
           <li>
             <a href="/uses"> Uses</a>
           </li>
           <li>
-            <a href="/about"> About</a>
+            <a href="/about"> Resume</a>
           </li>
           <li>
             <LinkButton
@@ -100,7 +95,7 @@ import LinkButton from "./LinkButton.astro";
     @apply absolute -top-full left-16 z-50 bg-skin-accent px-3 py-2 text-skin-inverted transition-all focus:top-4;
   }
   .nav-container {
-    @apply mx-auto flex max-w-3xl flex-col items-center justify-between sm:flex-row bg-skin-fill/5;
+    @apply mx-auto flex max-w-3xl flex-col items-center justify-between bg-skin-fill/5 sm:flex-row;
     position: fixed;
     top: 0;
     left: 0;
@@ -125,7 +120,7 @@ import LinkButton from "./LinkButton.astro";
     @apply flex w-full flex-col items-center  sm:ml-2 sm:flex-row sm:justify-end sm:space-x-4 sm:py-0;
   }
   nav ul {
-    @apply mt-4 grid w-44 grid-cols-2 grid-rows-4 gap-x-2 gap-y-2 sm:ml-0 sm:mt-0 sm:w-auto sm:gap-x-5 sm:gap-y-0 relative;
+    @apply relative mt-4 grid w-44 grid-cols-2 grid-rows-4 gap-x-2 gap-y-2 sm:ml-0 sm:mt-0 sm:w-auto sm:gap-x-5 sm:gap-y-0;
   }
   #menu-items {
     --border-witdh: 0px;
