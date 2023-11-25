@@ -8,15 +8,13 @@ title: "Uses"
 ## 👨‍💻 Programming
 
 - TypeScript/JavaScript
-- React.js/React Native
+- React.js/Angular/React Native
 - iOS/Android
-- Node.js
-- Next.js/Gatsby.js/Astro.js
-- PNPM
+- Ecosystem Java | Spring Boot | Microservices | Spring Cloud | Spring Security
 
 ## 🔨 Editor & Console
 
-- My favorite editor is [VS Code](https://code.visualstudio.com/) with the [Cobalt 2 theme](https://github.com/wesbos/cobalt2-vscode).
+- My favorite editor is [VS Code](https://code.visualstudio.com/) and [IntelliJ](https://www.jetbrains.com/).
 - My terminal is [Warp](https://www.warp.dev/) and my font is [Fira Code](https://github.com/tonsky/FiraCode) with ligatures enabled.
 
 ## 📊 Apps & Productivity
@@ -33,32 +31,15 @@ title: "Uses"
 ## 🖥️ Desk Setup & Equipment
 
 - Pen and paper to write down ideas and tasks, or just to draw random things 😄. Before starting a task, two minutes with a pen and paper to write down what I'm going to do and how I'm going to do it is a life changer.
-- My laptop is a MacBook Pro M1.
-- My monitor is the HUAWEI 34 Curved.
-- My phone is an iPhone 13.
-- I use the [Apple Magic Mouse 2](https://www.amazon.com/Apple-Magic-Mouse-Wireless-Rechargable/dp/B07BR94PPD/) & [Apple Magic Keyboard 2](https://www.amazon.com/Apple-Wireless-Keyboard-Silver-MLA22LL/dp/B01NABDNPH/).
-- I use the [ScreenBar Halo](https://www.benq.eu/en-uk/lighting/monitor-light/screenbar-halo.html) while working at night.
-- I use a [Kindle](https://www.amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597) to read books.
-- I use [Amazfit GTS 4 Mini](https://www.amazon.fr/dp/B0B712FY2M?tag=electronixma-21).
-
-## 📚 Books
-
-I’ve been lucky enough to experience some incredible books through reading and listening in recent years. Here’s a shortlist of the best:
-
-- [Atomic Habits](https://jamesclear.com/atomic-habits)
-
-- [Be so good they can't ignore you](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
-
-- [Why Has Nobody Told Me This Before?](https://www.amazon.com/Why-Nobody-Told-This-Before/dp/0063227932)
-
-- [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
-
-- [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
+- My laptop is a Lenovo .
+- My monitor is the DELL .
+- My phone is an Redmi Note 12.
 
 ## 🎥 Youtube Channels
 
 As I mentioned in my [About Page](/about), YouTube is one of my most-visited websites. I am subscribed to many channels, but here are some of my favorites:
 
+- [My Professor Mohamed Youssfi](https://www.youtube.com/@mohamedYoussfi): is one of the best Professors, I see them in my life . (He talk about Java Ecosystem)
 - [The Diary Of A CEO](https://www.youtube.com/@TheDiaryOfACEO) : One of the best podcasts I've been listening to lately.
 
 - [Patrick Boyle](https://www.youtube.com/@PBoyle) : Politic and finance videos.
